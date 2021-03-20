@@ -1,0 +1,53 @@
+body{
+    font-size: 16px;
+    line-height: 1;
+}
+.jumbotron{
+    text-align: center;
+    background-color: #e1ebec;
+}
+.display-3{
+    font-weight: 500;
+    color: #566674;
+}
+.lead{
+    padding-top: 10px;
+}
+.row{
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid #e5e7eb;
+}
+.hour{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-right: 1px solid #e5e7eb;
+}
+textarea{
+   margin: 10px;
+   padding: 10px;
+   background: transparent;
+   border: none;
+   resize: none; 
+}
+.saveBtn{
+    background-color: rgb(114, 124, 133, .75);
+    border: none;
+    color: white;
+}
+.saveBtn:hover{
+    background-color: #727c85;
+}
+.past{
+    background-color: #b1d3e3;
+    color: #222629;
+}
+.present{
+    background-color: #566674;
+    color: white;
+}
+.future{
+    background-color: white;
+    color: #222629;
+}
