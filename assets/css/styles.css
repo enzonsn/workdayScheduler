@@ -6,7 +6,7 @@ body{
     text-align: center;
     background-color: #e1ebec;
 }
-.display-3{
+.display-3, #currentTime, #currentDay{
     font-weight: 500;
     color: #566674;
 }
